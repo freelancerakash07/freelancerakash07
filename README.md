@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://media.licdn.com/dms/image/v2/D5616AQF_QkUupP9jGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693767752418?e=1744848000&v=beta&t=h4S2STqMcIIIXzfVZXBK7iX9kf_ftK-K7zNZXwCoOC8)" alt="GitHub Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF_QkUupP9jGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693767752418?e=1744848000&v=beta&t=h4S2STqMcIIIXzfVZXBK7iX9kf_ftK-K7zNZXwCoOC8" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Akash, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
